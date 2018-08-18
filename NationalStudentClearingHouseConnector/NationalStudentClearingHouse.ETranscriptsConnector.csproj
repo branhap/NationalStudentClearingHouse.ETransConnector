@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net452</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyName>NationalStudentClearingHouse.ETranscriptsConnector</AssemblyName>
+    <RootNamespace>NationalStudentClearingHouse.ETranscriptsConnector</RootNamespace>
+    <Copyright>2018</Copyright>
+    <Authors>Paul Branham</Authors>
+    <Description>Passed school and student information to National Student Clearing House and returns html content to forward user to endpoint.</Description>
+    <PackageLicenseUrl>https://github.com/branhap/NationalStudentClearingHouse.ETransConnector/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/branhap/NationalStudentClearingHouse.ETransConnector</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/branhap/NationalStudentClearingHouse.ETransConnector</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>NationalStudentClearingHouse ETranscripts</PackageTags>
+  </PropertyGroup>
+
+</Project>
